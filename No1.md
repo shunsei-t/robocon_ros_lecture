@@ -14,6 +14,9 @@ https://docs.microsoft.com/ja-jp/windows/wsl/basic-commands
 setup bash scriptをお借りする
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 # インストールしている間に
+- windows terminalについて
+- vscodeについて
+  - wsl, ros拡張機能
 - wslについて
 - ubuntuについて
   - 各種コマンド
