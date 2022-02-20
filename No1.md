@@ -20,4 +20,5 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
   - bashscript
   - gcc
   - python
+- gitについて
 - rosについて
