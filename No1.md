@@ -12,7 +12,7 @@ https://docs.microsoft.com/ja-jp/windows/wsl/basic-commands
 そこまで違いが分かっていないが、**2**にする
 # rosのインストール
 setup bash scriptをお借りする
-https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
+https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_desktop
 # インストールしている間に
 - windows terminalについて
 - vscodeについて
