@@ -25,3 +25,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_desktop
   - python
 - gitについて
 - rosについて
+
+実行コマンド
+./step0.bash
+./step1.bash
